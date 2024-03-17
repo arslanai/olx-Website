@@ -215,4 +215,15 @@ width: 30%;
     .but{
         width: 20%;
     }
+   
+    .v{
+width: 20%;
+/* height: 50px; */
+display: flex;
+justify-content: space-around;
+    }
+    .ii{
+width: 200%;
+margin-right: 80px;
+    }
    }
